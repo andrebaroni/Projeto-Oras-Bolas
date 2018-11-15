@@ -1,0 +1,1093 @@
+
+
+0.000, 
+0.000, 
+0.000, 
+0.000, 
+0.000, 
+0.000, 
+0.001, 
+0.001, 
+0.001, 
+0.001, 
+0.002, 
+0.002, 
+0.002, 
+0.003, 
+0.003, 
+0.004, 
+0.004, 
+0.005, 
+0.005, 
+0.006, 
+0.006, 
+0.007, 
+0.008, 
+0.008, 
+0.009, 
+0.010, 
+0.011, 
+0.012, 
+0.013, 
+0.013, 
+0.014, 
+0.015, 
+0.016, 
+0.017, 
+0.018, 
+0.020, 
+0.021, 
+0.022, 
+0.023, 
+0.024, 
+0.026, 
+0.027, 
+0.028, 
+0.030, 
+0.031, 
+0.032, 
+0.034, 
+0.035, 
+0.037, 
+0.038, 
+0.040, 
+0.042, 
+0.043, 
+0.045, 
+0.047, 
+0.048, 
+0.050, 
+0.052, 
+0.054, 
+0.056, 
+0.058, 
+0.060, 
+0.062, 
+0.064, 
+0.066, 
+0.068, 
+0.070, 
+0.072, 
+0.074, 
+0.076, 
+0.078, 
+0.081, 
+0.083, 
+0.085, 
+0.088, 
+0.090, 
+0.092, 
+0.095, 
+0.097, 
+0.100, 
+0.102, 
+0.105, 
+0.108, 
+0.110, 
+0.113, 
+0.116, 
+0.118, 
+0.121, 
+0.124, 
+0.127, 
+0.130, 
+0.132, 
+0.135, 
+0.138, 
+0.141, 
+0.144, 
+0.147, 
+0.151, 
+0.154, 
+0.157, 
+0.160, 
+0.163, 
+0.166, 
+0.170, 
+0.173, 
+0.176, 
+0.180, 
+0.183, 
+0.187, 
+0.190, 
+0.194, 
+0.197, 
+0.201, 
+0.204, 
+0.208, 
+0.212, 
+0.215, 
+0.219, 
+0.223, 
+0.227, 
+0.230, 
+0.234, 
+0.238, 
+0.242, 
+0.246, 
+0.250, 
+0.254, 
+0.258, 
+0.262, 
+0.266, 
+0.270, 
+0.275, 
+0.279, 
+0.283, 
+0.287, 
+0.292, 
+0.296, 
+0.300, 
+0.305, 
+0.309, 
+0.314, 
+0.318, 
+0.323, 
+0.327, 
+0.332, 
+0.336, 
+0.341, 
+0.346, 
+0.350, 
+0.355, 
+0.360, 
+0.365, 
+0.370, 
+0.375, 
+0.379, 
+0.384, 
+0.389, 
+0.394, 
+0.399, 
+0.404, 
+0.410, 
+0.415, 
+0.420, 
+0.425, 
+0.430, 
+0.436, 
+0.441, 
+0.446, 
+0.452, 
+0.457, 
+0.462, 
+0.468, 
+0.473, 
+0.479, 
+0.484, 
+0.490, 
+0.496, 
+0.501, 
+0.507, 
+0.513, 
+0.518, 
+0.524, 
+0.530, 
+0.536, 
+0.542, 
+0.548, 
+0.554, 
+0.560, 
+0.566, 
+0.572, 
+0.578, 
+0.584, 
+0.590, 
+0.596, 
+0.602, 
+0.608, 
+0.615, 
+0.621, 
+0.627, 
+0.634, 
+0.640, 
+0.646, 
+0.653, 
+0.659, 
+0.666, 
+0.672, 
+0.679, 
+0.686, 
+0.692, 
+0.699, 
+0.706, 
+0.712, 
+0.719, 
+0.726, 
+0.733, 
+0.740, 
+0.746, 
+0.753, 
+0.760, 
+0.767, 
+0.774, 
+0.781, 
+0.789, 
+0.796, 
+0.803, 
+0.810, 
+0.817, 
+0.824, 
+0.832, 
+0.839, 
+0.846, 
+0.854, 
+0.861, 
+0.869, 
+0.876, 
+0.884, 
+0.891, 
+0.899, 
+0.906, 
+0.914, 
+0.922, 
+0.929, 
+0.937, 
+0.945, 
+0.953, 
+0.960, 
+0.968, 
+0.976, 
+0.984, 
+0.992, 
+1.000, 
+1.008, 
+1.016, 
+1.024, 
+1.032, 
+1.040, 
+1.049, 
+1.057, 
+1.065, 
+1.073, 
+1.082, 
+1.090, 
+1.098, 
+1.107, 
+1.115, 
+1.124, 
+1.132, 
+1.141, 
+1.149, 
+1.158, 
+1.166, 
+1.175, 
+1.184, 
+1.192, 
+1.201, 
+1.210, 
+1.219, 
+1.228, 
+1.237, 
+1.245, 
+1.254, 
+1.263, 
+1.272, 
+1.281, 
+1.290, 
+1.300, 
+1.309, 
+1.318, 
+1.327, 
+1.336, 
+1.346, 
+1.355, 
+1.364, 
+1.374, 
+1.383, 
+1.392, 
+1.402, 
+1.411, 
+1.421, 
+1.430, 
+1.440, 
+1.450, 
+1.459, 
+1.469, 
+1.479, 
+1.488, 
+1.498, 
+1.508, 
+1.518, 
+1.528, 
+1.538, 
+1.548, 
+1.558, 
+1.568, 
+1.578, 
+1.588, 
+1.598, 
+1.608, 
+1.618, 
+1.628, 
+1.638, 
+1.649, 
+1.659, 
+1.669, 
+1.680, 
+1.690, 
+1.700, 
+1.711, 
+1.721, 
+1.732, 
+1.742, 
+1.753, 
+1.764, 
+1.774, 
+1.785, 
+1.796, 
+1.806, 
+1.817, 
+1.828, 
+1.839, 
+1.850, 
+1.860, 
+1.871, 
+1.882, 
+1.893, 
+1.904, 
+1.915, 
+1.927, 
+1.938, 
+1.949, 
+1.960, 
+1.971, 
+1.982, 
+1.994, 
+2.005, 
+2.016, 
+2.028, 
+2.039, 
+2.051, 
+2.062, 
+2.074, 
+2.085, 
+2.097, 
+2.108, 
+2.120, 
+2.132, 
+2.143, 
+2.155, 
+2.167, 
+2.179, 
+2.190, 
+2.202, 
+2.214, 
+2.226, 
+2.238, 
+2.250, 
+2.262, 
+2.274, 
+2.286, 
+2.298, 
+2.310, 
+2.323, 
+2.335, 
+2.347, 
+2.359, 
+2.372, 
+2.384, 
+2.396, 
+2.409, 
+2.421, 
+2.434, 
+2.446, 
+2.459, 
+2.471, 
+2.484, 
+2.496, 
+2.509, 
+2.522, 
+2.534, 
+2.547, 
+2.560, 
+2.573, 
+2.586, 
+2.599, 
+2.611, 
+2.624, 
+2.637, 
+2.650, 
+2.663, 
+2.676, 
+2.690, 
+2.703, 
+2.716, 
+2.729, 
+2.742, 
+2.756, 
+2.769, 
+2.782, 
+2.796, 
+2.809, 
+2.822, 
+2.836, 
+2.849, 
+2.863, 
+2.876, 
+2.890, 
+2.904, 
+2.917, 
+2.931, 
+2.945, 
+2.958, 
+2.972, 
+2.986, 
+3.000, 
+3.014, 
+3.028, 
+3.042, 
+3.056, 
+3.070, 
+3.084, 
+3.098, 
+3.112, 
+3.126, 
+3.140, 
+3.154, 
+3.168, 
+3.183, 
+3.197, 
+3.211, 
+3.226, 
+3.240, 
+3.254, 
+3.269, 
+3.283, 
+3.298, 
+3.312, 
+3.327, 
+3.342, 
+3.356, 
+3.371, 
+3.386, 
+3.400, 
+3.415, 
+3.430, 
+3.445, 
+3.460, 
+3.474, 
+3.489, 
+3.504, 
+3.519, 
+3.534, 
+3.549, 
+3.565, 
+3.580, 
+3.595, 
+3.610, 
+3.625, 
+3.640, 
+3.656, 
+3.671, 
+3.686, 
+3.702, 
+3.717, 
+3.733, 
+3.748, 
+3.764, 
+3.779, 
+3.795, 
+3.810, 
+3.826, 
+3.842, 
+3.857, 
+3.873, 
+3.889, 
+3.905, 
+3.920, 
+3.936, 
+3.952, 
+3.968, 
+3.984, 
+4.000, 
+4.016, 
+4.032, 
+4.048, 
+4.064, 
+4.080, 
+4.097, 
+4.113, 
+4.129, 
+4.145, 
+4.162, 
+4.178, 
+4.194, 
+4.211, 
+4.227, 
+4.244, 
+4.260, 
+4.277, 
+4.293, 
+4.310, 
+4.326, 
+4.343, 
+4.360, 
+4.376, 
+4.393, 
+4.410, 
+4.427, 
+4.444, 
+4.461, 
+4.477, 
+4.494, 
+4.511, 
+4.528, 
+4.545, 
+4.562, 
+4.580, 
+4.597, 
+4.614, 
+4.631, 
+4.648, 
+4.666, 
+4.683, 
+4.700, 
+4.718, 
+4.735, 
+4.752, 
+4.770, 
+4.787, 
+4.805, 
+4.822, 
+4.840, 
+4.858, 
+4.875, 
+4.893, 
+4.911, 
+4.928, 
+4.946, 
+4.964, 
+4.982, 
+5.000, 
+5.018, 
+5.036, 
+5.054, 
+5.072, 
+5.090, 
+5.108, 
+5.126, 
+5.144, 
+5.162, 
+5.180, 
+5.198, 
+5.217, 
+5.235, 
+5.253, 
+5.272, 
+5.290, 
+5.308, 
+5.327, 
+5.345, 
+5.364, 
+5.382, 
+5.401, 
+5.420, 
+5.438, 
+5.457, 
+5.476, 
+5.494, 
+5.513, 
+5.532, 
+5.551, 
+5.570, 
+5.588, 
+5.607, 
+5.626, 
+5.645, 
+5.664, 
+5.683, 
+5.703, 
+5.722, 
+5.741, 
+5.760, 
+5.779, 
+5.798, 
+5.818, 
+5.837, 
+5.856, 
+5.876, 
+5.895, 
+5.915, 
+5.934, 
+5.954, 
+5.973, 
+5.993, 
+6.012, 
+6.032, 
+6.052, 
+6.071, 
+6.091, 
+6.111, 
+6.131, 
+6.150, 
+6.170, 
+6.190, 
+6.210, 
+6.230, 
+6.250, 
+6.270, 
+6.290, 
+6.310, 
+6.330, 
+6.350, 
+6.371, 
+6.391, 
+6.411, 
+6.431, 
+6.452, 
+6.472, 
+6.492, 
+6.513, 
+encontrou em XXXX!!!!!! ======== posicao: 639
+tempo: 12.78
+nao encontrou == Posicao RoboY: 0.002
+nao encontrou == Posicao RoboY: 0.005
+nao encontrou == Posicao RoboY: 0.005
+nao encontrou == Posicao RoboY: 0.006
+nao encontrou == Posicao RoboY: 0.006
+nao encontrou == Posicao RoboY: 0.007
+nao encontrou == Posicao RoboY: 0.007
+nao encontrou == Posicao RoboY: 0.008
+nao encontrou == Posicao RoboY: 0.009
+nao encontrou == Posicao RoboY: 0.009
+nao encontrou == Posicao RoboY: 0.010
+nao encontrou == Posicao RoboY: 0.011
+nao encontrou == Posicao RoboY: 0.012
+nao encontrou == Posicao RoboY: 0.012
+nao encontrou == Posicao RoboY: 0.013
+nao encontrou == Posicao RoboY: 0.014
+nao encontrou == Posicao RoboY: 0.015
+nao encontrou == Posicao RoboY: 0.016
+nao encontrou == Posicao RoboY: 0.017
+nao encontrou == Posicao RoboY: 0.018
+nao encontrou == Posicao RoboY: 0.019
+nao encontrou == Posicao RoboY: 0.020
+nao encontrou == Posicao RoboY: 0.021
+nao encontrou == Posicao RoboY: 0.022
+nao encontrou == Posicao RoboY: 0.023
+nao encontrou == Posicao RoboY: 0.024
+nao encontrou == Posicao RoboY: 0.025
+nao encontrou == Posicao RoboY: 0.027
+nao encontrou == Posicao RoboY: 0.028
+nao encontrou == Posicao RoboY: 0.029
+nao encontrou == Posicao RoboY: 0.031
+nao encontrou == Posicao RoboY: 0.032
+nao encontrou == Posicao RoboY: 0.033
+nao encontrou == Posicao RoboY: 0.035
+nao encontrou == Posicao RoboY: 0.036
+nao encontrou == Posicao RoboY: 0.038
+nao encontrou == Posicao RoboY: 0.039
+nao encontrou == Posicao RoboY: 0.041
+nao encontrou == Posicao RoboY: 0.042
+nao encontrou == Posicao RoboY: 0.044
+nao encontrou == Posicao RoboY: 0.046
+nao encontrou == Posicao RoboY: 0.047
+nao encontrou == Posicao RoboY: 0.049
+nao encontrou == Posicao RoboY: 0.051
+nao encontrou == Posicao RoboY: 0.052
+nao encontrou == Posicao RoboY: 0.054
+nao encontrou == Posicao RoboY: 0.056
+nao encontrou == Posicao RoboY: 0.058
+nao encontrou == Posicao RoboY: 0.060
+nao encontrou == Posicao RoboY: 0.062
+nao encontrou == Posicao RoboY: 0.064
+nao encontrou == Posicao RoboY: 0.066
+nao encontrou == Posicao RoboY: 0.068
+nao encontrou == Posicao RoboY: 0.070
+nao encontrou == Posicao RoboY: 0.072
+nao encontrou == Posicao RoboY: 0.074
+nao encontrou == Posicao RoboY: 0.076
+nao encontrou == Posicao RoboY: 0.078
+nao encontrou == Posicao RoboY: 0.081
+nao encontrou == Posicao RoboY: 0.083
+nao encontrou == Posicao RoboY: 0.085
+nao encontrou == Posicao RoboY: 0.088
+nao encontrou == Posicao RoboY: 0.090
+nao encontrou == Posicao RoboY: 0.092
+nao encontrou == Posicao RoboY: 0.095
+nao encontrou == Posicao RoboY: 0.097
+nao encontrou == Posicao RoboY: 0.100
+nao encontrou == Posicao RoboY: 0.102
+nao encontrou == Posicao RoboY: 0.105
+nao encontrou == Posicao RoboY: 0.107
+nao encontrou == Posicao RoboY: 0.110
+nao encontrou == Posicao RoboY: 0.113
+nao encontrou == Posicao RoboY: 0.115
+nao encontrou == Posicao RoboY: 0.118
+nao encontrou == Posicao RoboY: 0.121
+nao encontrou == Posicao RoboY: 0.123
+nao encontrou == Posicao RoboY: 0.126
+nao encontrou == Posicao RoboY: 0.129
+nao encontrou == Posicao RoboY: 0.132
+nao encontrou == Posicao RoboY: 0.135
+nao encontrou == Posicao RoboY: 0.138
+nao encontrou == Posicao RoboY: 0.141
+nao encontrou == Posicao RoboY: 0.144
+nao encontrou == Posicao RoboY: 0.147
+nao encontrou == Posicao RoboY: 0.150
+nao encontrou == Posicao RoboY: 0.153
+nao encontrou == Posicao RoboY: 0.156
+nao encontrou == Posicao RoboY: 0.159
+nao encontrou == Posicao RoboY: 0.162
+nao encontrou == Posicao RoboY: 0.166
+nao encontrou == Posicao RoboY: 0.169
+nao encontrou == Posicao RoboY: 0.172
+nao encontrou == Posicao RoboY: 0.175
+nao encontrou == Posicao RoboY: 0.179
+nao encontrou == Posicao RoboY: 0.182
+nao encontrou == Posicao RoboY: 0.185
+nao encontrou == Posicao RoboY: 0.189
+nao encontrou == Posicao RoboY: 0.192
+nao encontrou == Posicao RoboY: 0.196
+nao encontrou == Posicao RoboY: 0.199
+nao encontrou == Posicao RoboY: 0.203
+nao encontrou == Posicao RoboY: 0.207
+nao encontrou == Posicao RoboY: 0.210
+nao encontrou == Posicao RoboY: 0.214
+nao encontrou == Posicao RoboY: 0.218
+nao encontrou == Posicao RoboY: 0.221
+nao encontrou == Posicao RoboY: 0.225
+nao encontrou == Posicao RoboY: 0.229
+nao encontrou == Posicao RoboY: 0.233
+nao encontrou == Posicao RoboY: 0.237
+nao encontrou == Posicao RoboY: 0.240
+nao encontrou == Posicao RoboY: 0.244
+nao encontrou == Posicao RoboY: 0.248
+nao encontrou == Posicao RoboY: 0.252
+nao encontrou == Posicao RoboY: 0.256
+nao encontrou == Posicao RoboY: 0.260
+nao encontrou == Posicao RoboY: 0.264
+nao encontrou == Posicao RoboY: 0.269
+nao encontrou == Posicao RoboY: 0.273
+nao encontrou == Posicao RoboY: 0.277
+nao encontrou == Posicao RoboY: 0.281
+nao encontrou == Posicao RoboY: 0.285
+nao encontrou == Posicao RoboY: 0.290
+nao encontrou == Posicao RoboY: 0.294
+nao encontrou == Posicao RoboY: 0.298
+nao encontrou == Posicao RoboY: 0.303
+nao encontrou == Posicao RoboY: 0.307
+nao encontrou == Posicao RoboY: 0.311
+nao encontrou == Posicao RoboY: 0.316
+nao encontrou == Posicao RoboY: 0.320
+nao encontrou == Posicao RoboY: 0.325
+nao encontrou == Posicao RoboY: 0.329
+nao encontrou == Posicao RoboY: 0.334
+nao encontrou == Posicao RoboY: 0.339
+nao encontrou == Posicao RoboY: 0.343
+nao encontrou == Posicao RoboY: 0.348
+nao encontrou == Posicao RoboY: 0.353
+nao encontrou == Posicao RoboY: 0.358
+nao encontrou == Posicao RoboY: 0.362
+nao encontrou == Posicao RoboY: 0.367
+nao encontrou == Posicao RoboY: 0.372
+nao encontrou == Posicao RoboY: 0.377
+nao encontrou == Posicao RoboY: 0.382
+nao encontrou == Posicao RoboY: 0.387
+nao encontrou == Posicao RoboY: 0.392
+nao encontrou == Posicao RoboY: 0.397
+nao encontrou == Posicao RoboY: 0.402
+nao encontrou == Posicao RoboY: 0.407
+nao encontrou == Posicao RoboY: 0.412
+nao encontrou == Posicao RoboY: 0.417
+nao encontrou == Posicao RoboY: 0.422
+nao encontrou == Posicao RoboY: 0.427
+nao encontrou == Posicao RoboY: 0.433
+nao encontrou == Posicao RoboY: 0.438
+nao encontrou == Posicao RoboY: 0.443
+nao encontrou == Posicao RoboY: 0.449
+nao encontrou == Posicao RoboY: 0.454
+nao encontrou == Posicao RoboY: 0.459
+nao encontrou == Posicao RoboY: 0.465
+nao encontrou == Posicao RoboY: 0.470
+nao encontrou == Posicao RoboY: 0.476
+nao encontrou == Posicao RoboY: 0.481
+nao encontrou == Posicao RoboY: 0.487
+nao encontrou == Posicao RoboY: 0.492
+nao encontrou == Posicao RoboY: 0.498
+nao encontrou == Posicao RoboY: 0.504
+nao encontrou == Posicao RoboY: 0.509
+nao encontrou == Posicao RoboY: 0.515
+nao encontrou == Posicao RoboY: 0.521
+nao encontrou == Posicao RoboY: 0.526
+nao encontrou == Posicao RoboY: 0.532
+nao encontrou == Posicao RoboY: 0.538
+nao encontrou == Posicao RoboY: 0.544
+nao encontrou == Posicao RoboY: 0.550
+nao encontrou == Posicao RoboY: 0.556
+nao encontrou == Posicao RoboY: 0.562
+nao encontrou == Posicao RoboY: 0.568
+nao encontrou == Posicao RoboY: 0.574
+nao encontrou == Posicao RoboY: 0.580
+nao encontrou == Posicao RoboY: 0.586
+nao encontrou == Posicao RoboY: 0.592
+nao encontrou == Posicao RoboY: 0.598
+nao encontrou == Posicao RoboY: 0.604
+nao encontrou == Posicao RoboY: 0.611
+nao encontrou == Posicao RoboY: 0.617
+nao encontrou == Posicao RoboY: 0.623
+nao encontrou == Posicao RoboY: 0.630
+nao encontrou == Posicao RoboY: 0.636
+nao encontrou == Posicao RoboY: 0.642
+nao encontrou == Posicao RoboY: 0.649
+nao encontrou == Posicao RoboY: 0.655
+nao encontrou == Posicao RoboY: 0.662
+nao encontrou == Posicao RoboY: 0.668
+nao encontrou == Posicao RoboY: 0.675
+nao encontrou == Posicao RoboY: 0.681
+nao encontrou == Posicao RoboY: 0.688
+nao encontrou == Posicao RoboY: 0.695
+nao encontrou == Posicao RoboY: 0.701
+nao encontrou == Posicao RoboY: 0.708
+nao encontrou == Posicao RoboY: 0.715
+nao encontrou == Posicao RoboY: 0.721
+nao encontrou == Posicao RoboY: 0.728
+nao encontrou == Posicao RoboY: 0.735
+nao encontrou == Posicao RoboY: 0.742
+nao encontrou == Posicao RoboY: 0.749
+nao encontrou == Posicao RoboY: 0.756
+nao encontrou == Posicao RoboY: 0.763
+nao encontrou == Posicao RoboY: 0.770
+nao encontrou == Posicao RoboY: 0.777
+nao encontrou == Posicao RoboY: 0.784
+nao encontrou == Posicao RoboY: 0.791
+nao encontrou == Posicao RoboY: 0.798
+nao encontrou == Posicao RoboY: 0.805
+nao encontrou == Posicao RoboY: 0.812
+nao encontrou == Posicao RoboY: 0.820
+nao encontrou == Posicao RoboY: 0.827
+nao encontrou == Posicao RoboY: 0.834
+nao encontrou == Posicao RoboY: 0.841
+nao encontrou == Posicao RoboY: 0.849
+nao encontrou == Posicao RoboY: 0.856
+nao encontrou == Posicao RoboY: 0.863
+nao encontrou == Posicao RoboY: 0.871
+nao encontrou == Posicao RoboY: 0.878
+nao encontrou == Posicao RoboY: 0.886
+nao encontrou == Posicao RoboY: 0.893
+nao encontrou == Posicao RoboY: 0.901
+nao encontrou == Posicao RoboY: 0.909
+nao encontrou == Posicao RoboY: 0.916
+nao encontrou == Posicao RoboY: 0.924
+nao encontrou == Posicao RoboY: 0.932
+nao encontrou == Posicao RoboY: 0.939
+nao encontrou == Posicao RoboY: 0.947
+nao encontrou == Posicao RoboY: 0.955
+nao encontrou == Posicao RoboY: 0.963
+nao encontrou == Posicao RoboY: 0.971
+nao encontrou == Posicao RoboY: 0.978
+nao encontrou == Posicao RoboY: 0.986
+nao encontrou == Posicao RoboY: 0.994
+nao encontrou == Posicao RoboY: 1.002
+nao encontrou == Posicao RoboY: 1.010
+nao encontrou == Posicao RoboY: 1.018
+nao encontrou == Posicao RoboY: 1.026
+nao encontrou == Posicao RoboY: 1.035
+nao encontrou == Posicao RoboY: 1.043
+nao encontrou == Posicao RoboY: 1.051
+nao encontrou == Posicao RoboY: 1.059
+nao encontrou == Posicao RoboY: 1.067
+nao encontrou == Posicao RoboY: 1.076
+nao encontrou == Posicao RoboY: 1.084
+nao encontrou == Posicao RoboY: 1.092
+nao encontrou == Posicao RoboY: 1.101
+nao encontrou == Posicao RoboY: 1.109
+nao encontrou == Posicao RoboY: 1.117
+nao encontrou == Posicao RoboY: 1.126
+nao encontrou == Posicao RoboY: 1.134
+nao encontrou == Posicao RoboY: 1.143
+nao encontrou == Posicao RoboY: 1.151
+nao encontrou == Posicao RoboY: 1.160
+nao encontrou == Posicao RoboY: 1.169
+nao encontrou == Posicao RoboY: 1.177
+nao encontrou == Posicao RoboY: 1.186
+nao encontrou == Posicao RoboY: 1.195
+nao encontrou == Posicao RoboY: 1.204
+nao encontrou == Posicao RoboY: 1.212
+nao encontrou == Posicao RoboY: 1.221
+nao encontrou == Posicao RoboY: 1.230
+nao encontrou == Posicao RoboY: 1.239
+nao encontrou == Posicao RoboY: 1.248
+nao encontrou == Posicao RoboY: 1.257
+nao encontrou == Posicao RoboY: 1.266
+nao encontrou == Posicao RoboY: 1.275
+nao encontrou == Posicao RoboY: 1.284
+nao encontrou == Posicao RoboY: 1.293
+nao encontrou == Posicao RoboY: 1.302
+nao encontrou == Posicao RoboY: 1.311
+nao encontrou == Posicao RoboY: 1.320
+nao encontrou == Posicao RoboY: 1.329
+nao encontrou == Posicao RoboY: 1.339
+nao encontrou == Posicao RoboY: 1.348
+nao encontrou == Posicao RoboY: 1.357
+nao encontrou == Posicao RoboY: 1.367
+nao encontrou == Posicao RoboY: 1.376
+nao encontrou == Posicao RoboY: 1.385
+nao encontrou == Posicao RoboY: 1.395
+nao encontrou == Posicao RoboY: 1.404
+nao encontrou == Posicao RoboY: 1.414
+nao encontrou == Posicao RoboY: 1.423
+nao encontrou == Posicao RoboY: 1.433
+nao encontrou == Posicao RoboY: 1.442
+nao encontrou == Posicao RoboY: 1.452
+nao encontrou == Posicao RoboY: 1.462
+nao encontrou == Posicao RoboY: 1.471
+nao encontrou == Posicao RoboY: 1.481
+nao encontrou == Posicao RoboY: 1.491
+nao encontrou == Posicao RoboY: 1.500
+nao encontrou == Posicao RoboY: 1.510
+nao encontrou == Posicao RoboY: 1.520
+nao encontrou == Posicao RoboY: 1.530
+nao encontrou == Posicao RoboY: 1.540
+nao encontrou == Posicao RoboY: 1.550
+nao encontrou == Posicao RoboY: 1.560
+nao encontrou == Posicao RoboY: 1.570
+nao encontrou == Posicao RoboY: 1.580
+nao encontrou == Posicao RoboY: 1.590
+nao encontrou == Posicao RoboY: 1.600
+nao encontrou == Posicao RoboY: 1.610
+nao encontrou == Posicao RoboY: 1.620
+nao encontrou == Posicao RoboY: 1.630
+nao encontrou == Posicao RoboY: 1.641
+nao encontrou == Posicao RoboY: 1.651
+nao encontrou == Posicao RoboY: 1.661
+nao encontrou == Posicao RoboY: 1.672
+nao encontrou == Posicao RoboY: 1.682
+nao encontrou == Posicao RoboY: 1.692
+nao encontrou == Posicao RoboY: 1.703
+nao encontrou == Posicao RoboY: 1.713
+nao encontrou == Posicao RoboY: 1.724
+nao encontrou == Posicao RoboY: 1.734
+nao encontrou == Posicao RoboY: 1.745
+nao encontrou == Posicao RoboY: 1.755
+nao encontrou == Posicao RoboY: 1.766
+nao encontrou == Posicao RoboY: 1.777
+nao encontrou == Posicao RoboY: 1.787
+nao encontrou == Posicao RoboY: 1.798
+nao encontrou == Posicao RoboY: 1.809
+nao encontrou == Posicao RoboY: 1.819
+nao encontrou == Posicao RoboY: 1.830
+nao encontrou == Posicao RoboY: 1.841
+nao encontrou == Posicao RoboY: 1.852
+nao encontrou == Posicao RoboY: 1.863
+nao encontrou == Posicao RoboY: 1.874
+nao encontrou == Posicao RoboY: 1.885
+nao encontrou == Posicao RoboY: 1.896
+nao encontrou == Posicao RoboY: 1.907
+nao encontrou == Posicao RoboY: 1.918
+nao encontrou == Posicao RoboY: 1.929
+nao encontrou == Posicao RoboY: 1.940
+nao encontrou == Posicao RoboY: 1.951
+nao encontrou == Posicao RoboY: 1.962
+nao encontrou == Posicao RoboY: 1.974
+nao encontrou == Posicao RoboY: 1.985
+nao encontrou == Posicao RoboY: 1.996
+nao encontrou == Posicao RoboY: 2.007
+nao encontrou == Posicao RoboY: 2.019
+nao encontrou == Posicao RoboY: 2.030
+nao encontrou == Posicao RoboY: 2.041
+nao encontrou == Posicao RoboY: 2.053
+nao encontrou == Posicao RoboY: 2.064
+nao encontrou == Posicao RoboY: 2.076
+nao encontrou == Posicao RoboY: 2.087
+nao encontrou == Posicao RoboY: 2.099
+nao encontrou == Posicao RoboY: 2.111
+nao encontrou == Posicao RoboY: 2.122
+nao encontrou == Posicao RoboY: 2.134
+nao encontrou == Posicao RoboY: 2.146
+nao encontrou == Posicao RoboY: 2.157
+nao encontrou == Posicao RoboY: 2.169
+nao encontrou == Posicao RoboY: 2.181
+nao encontrou == Posicao RoboY: 2.193
+nao encontrou == Posicao RoboY: 2.205
+nao encontrou == Posicao RoboY: 2.216
+nao encontrou == Posicao RoboY: 2.228
+nao encontrou == Posicao RoboY: 2.240
+nao encontrou == Posicao RoboY: 2.252
+nao encontrou == Posicao RoboY: 2.264
+nao encontrou == Posicao RoboY: 2.276
+nao encontrou == Posicao RoboY: 2.288
+nao encontrou == Posicao RoboY: 2.301
+nao encontrou == Posicao RoboY: 2.313
+nao encontrou == Posicao RoboY: 2.325
+nao encontrou == Posicao RoboY: 2.337
+nao encontrou == Posicao RoboY: 2.349
+nao encontrou == Posicao RoboY: 2.362
+nao encontrou == Posicao RoboY: 2.374
+nao encontrou == Posicao RoboY: 2.386
+nao encontrou == Posicao RoboY: 2.399
+nao encontrou == Posicao RoboY: 2.411
+nao encontrou == Posicao RoboY: 2.423
+nao encontrou == Posicao RoboY: 2.436
+nao encontrou == Posicao RoboY: 2.448
+nao encontrou == Posicao RoboY: 2.461
+nao encontrou == Posicao RoboY: 2.473
+nao encontrou == Posicao RoboY: 2.486
+nao encontrou == Posicao RoboY: 2.499
+nao encontrou == Posicao RoboY: 2.511
+nao encontrou == Posicao RoboY: 2.524
+nao encontrou == Posicao RoboY: 2.537
+nao encontrou == Posicao RoboY: 2.550
+nao encontrou == Posicao RoboY: 2.562
+nao encontrou == Posicao RoboY: 2.575
+nao encontrou == Posicao RoboY: 2.588
+nao encontrou == Posicao RoboY: 2.601
+nao encontrou == Posicao RoboY: 2.614
+nao encontrou == Posicao RoboY: 2.627
+nao encontrou == Posicao RoboY: 2.640
+nao encontrou == Posicao RoboY: 2.653
+nao encontrou == Posicao RoboY: 2.666
+nao encontrou == Posicao RoboY: 2.679
+nao encontrou == Posicao RoboY: 2.692
+nao encontrou == Posicao RoboY: 2.705
+nao encontrou == Posicao RoboY: 2.718
+nao encontrou == Posicao RoboY: 2.731
+nao encontrou == Posicao RoboY:Pressione qualquer tecla para continuar. . .  2.745
+nao encontrou == Posicao RoboY: 2.758
+nao encontrou == Posicao RoboY: 2.771
+nao encontrou == Posicao RoboY: 2.785
+nao encontrou == Posicao RoboY: 2.798
+nao encontrou == Posicao RoboY: 2.811
+nao encontrou == Posicao RoboY: 2.825
+nao encontrou == Posicao RoboY: 2.838
+nao encontrou == Posicao RoboY: 2.852
+nao encontrou == Posicao RoboY: 2.865
+nao encontrou == Posicao RoboY: 2.879
+nao encontrou == Posicao RoboY: 2.892
+nao encontrou == Posicao RoboY: 2.906
+nao encontrou == Posicao RoboY: 2.920
+nao encontrou == Posicao RoboY: 2.933
+nao encontrou == Posicao RoboY: 2.947
+nao encontrou == Posicao RoboY: 2.961
+nao encontrou == Posicao RoboY: 2.974
+nao encontrou == Posicao RoboY: 2.988
+nao encontrou == Posicao RoboY: 3.002
+nao encontrou == Posicao RoboY: 3.016
+nao encontrou == Posicao RoboY: 3.030
+nao encontrou == Posicao RoboY: 3.044
+nao encontrou == Posicao RoboY: 3.058
+nao encontrou == Posicao RoboY: 3.072
+nao encontrou == Posicao RoboY: 3.086
+nao encontrou == Posicao RoboY: 3.100
+nao encontrou == Posicao RoboY: 3.114
+nao encontrou == Posicao RoboY: 3.128
+nao encontrou == Posicao RoboY: 3.142
+nao encontrou == Posicao RoboY: 3.156
+nao encontrou == Posicao RoboY: 3.171
+nao encontrou == Posicao RoboY: 3.185
+nao encontrou == Posicao RoboY: 3.199
+nao encontrou == Posicao RoboY: 3.214
+nao encontrou == Posicao RoboY: 3.228
+nao encontrou == Posicao RoboY: 3.242
+nao encontrou == Posicao RoboY: 3.257
+nao encontrou == Posicao RoboY: 3.271
+nao encontrou == Posicao RoboY: 3.286
+nao encontrou == Posicao RoboY: 3.300
+nao encontrou == Posicao RoboY: 3.315
+nao encontrou == Posicao RoboY: 3.329
+nao encontrou == Posicao RoboY: 3.344
+nao encontrou == Posicao RoboY: 3.359
+nao encontrou == Posicao RoboY: 3.373
+nao encontrou == Posicao RoboY: 3.388
+encontrou em YYYY!!!!!! ======== posicao: 449

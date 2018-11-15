@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+	  <meta charset="UTF-8">
+	  <link rel="stylesheet" type="text/css" href="style.css">
+	  <title> Robo </title>
+	</head>
+<body>
+	<div class="header">
+	<ul>
+		<li><a href="geradorGrafico.html">gerador grafico</a></li>
+
+	</ul>
+</div>
+	<h1 class="welcome"> Trajetoria da bola e do robo X/Y</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<table>
+		<tr>
+			<td> <input type="button" id="botao" value="Clique aqui para gerar os graficos" onclick="vetor()" size="20"></td>
+			<td><input type="text" id="x" size="5" maxlength="3"/>X</td>
+			<td><input type="text" id="y" size="5" />Y</td>
+		</tr>
+		<tr>
+
+		</tr>
+
+	</table>
+	<script type="text/javascript" src="script.js"></script>
+	</div>
+
+	<canvas id="myChart1"></canvas>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<div id="myDiv"><!-- Plotly chart will be drawn inside this DIV --></div>
+
+	<h1 class="welcome1"> Coordenadas X e Y da Bola e Robo em função do tempo</h1>
+	<canvas id="myChart2"></canvas>
+	<script type="text/javascript" src="script.js"></script>
+	<div id="myDiv2"></div>
+	<div id="myDiv3"></div>
+
+	<h1 class="welcome2"> Vx e Vy da bola e robo pelo Tempo</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div id="myDiv4"></div>
+	<div id="myDiv5"></div>
+
+	<h1 class="welcome3"> Ax e Ay da bola e robo pelo Tempo</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div id="myDiv6"></div>
+
+	<h1 class="welcome4"> Distancia relativa</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div id="myDiv7"></div>
+
+</body>
+</html>
